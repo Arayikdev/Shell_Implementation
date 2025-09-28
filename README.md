@@ -10,12 +10,6 @@ This project demonstrates how a shell reads input, parses commands, handles buil
 - [Features](#features)  
 - [Requirements](#requirements)  
 - [Project Structure](#project-structure)  
-- [Build & Run](#build--run)  
-- [Usage](#usage)  
-- [Implemented Commands / Features](#implemented-commands--features)  
-- [Limitations & Possible Enhancements](#limitations--possible-enhancements)  
-- [Contributing](#contributing)  
-- [License](#license)  
 
 ---
 
